@@ -15,6 +15,7 @@
    | Authors: Andi Gutmans <andi@zend.com>                                |
    |          Rasmus Lerdorf <rasmus@lerdorf.on.ca>                       |
    |          Zeev Suraski <zeev@zend.com>                                |
+   |          XuWei Li (Kolier.Li) <kolier.li@gmail.com>                  |
    +----------------------------------------------------------------------+
 */
 
